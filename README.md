@@ -131,9 +131,9 @@ condo-platform/
 
 | Sprint | Período | Foco |
 |--------|---------|------|
-| Sprint 1 | 25/03 → 28/03 | Setup, entidades e CRUD |
-| Sprint 2 | 31/03 → 04/04 | Frontend e integração |
-| Sprint 3 | 07/04 → 11/04 | Testes e ajustes |
+| Sprint 1 | 25/03 → 31/03 | Setup, entidades e CRUD |
+| Sprint 2 | 01/04 → 07/04 | Frontend e integração |
+| Sprint 3 | 07/04 → 14/04 | Testes e ajustes |
 
 ---
 
