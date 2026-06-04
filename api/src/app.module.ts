@@ -14,5 +14,7 @@ import { OcorrenciaModule } from './ocorrencia/ocorrencia.module';
 
     OcorrenciaModule,
   ],
+  controllers: [AppController],
+  providers: [AppService],
 })
 export class AppModule {}
